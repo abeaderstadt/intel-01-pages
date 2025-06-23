@@ -8,7 +8,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 ## Images
 
-Here’s a picture of my dogs — because why not?
+Here’s a picture of my dogs because why not?
 
 ![My Dogs](my_dogs.PNG)
 
